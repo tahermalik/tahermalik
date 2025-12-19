@@ -82,6 +82,7 @@ Building scalable web applications • Writing clean code • Solving real-world
 ### 📊 GitHub Stats
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tahermalik&show_icons=true&theme=radical&hide_border=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tahermalik&layout=compact&theme=dark" />
 
 </p>
