@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Taher Malik</h1>
 
 <h3 align="center">
-Full Stack Developer | DSA Enthusiast | System Design Learner
+Full Stack Developer | DSA Learner | AI/ML Enthusiast
 </h3>
 
 <p align="center">
@@ -13,7 +13,7 @@ Building scalable web applications • Writing clean code • Solving real-world
 ### 🔭 I’m currently working on
 - Full Stack MERN projects
 - Improving DSA & problem-solving skills
-- Building scalable backend APIs
+- Building scalable backend API
 
 ---
 
@@ -25,14 +25,14 @@ Building scalable web applications • Writing clean code • Solving real-world
 ---
 
 ### 👯 I’m looking to collaborate on
-- Open-source projects
+- Open-source AI/ML projects
 - Full Stack (MERN) applications
 - DSA & Competitive Programming projects
 
 ---
 
 ### 🤔 I’m looking for help with
-- Large-scale system design problems
+- Large-scale AL Models
 - Open-source contribution guidance
 - Performance tuning in web applications
 
@@ -47,11 +47,11 @@ Building scalable web applications • Writing clean code • Solving real-world
 
 ### 📫 How to reach me
 <p>
-  <a href="mailto:yourmail@gmail.com">
-    📧 yourmail@gmail.com
+  <a href="mailto:tahermalik2002@gmail.com">
+    📧 tahermalik2002@gmail.com
   </a>
   <br/>
-  <a href="https://www.linkedin.com/in/your-linkedin/">
+  <a href="https://www.linkedin.com/in/taher-malik-4712a9270/">
     🔗 LinkedIn Profile
   </a>
 </p>
@@ -82,5 +82,5 @@ Building scalable web applications • Writing clean code • Solving real-world
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tahermalik&show_icons=true&theme=dark" />
 </p>
